@@ -1,0 +1,6 @@
+{
+    "produto": [
+        { "id": 1, "nome": "Teclado Logitech", "valor": 89.9 },
+        { "id": 2, "nome": "Monitor Dell", "valor": 589.5 }
+    ]
+}
